@@ -28,10 +28,13 @@
 * редактировать профиль;
 * выходить из профиля.
 
-
 ## Диаграмма пользовательских сценариев системы
 ![use-case1](/docs/images/case1.jpg "Сценарии использования у Пользователя")
 ![use-case2](/docs/images/case2.jpg "Сценарии использования у Администратора")
 
 ## ER-диаграмма сущностей системы
 ![model](/docs/images/er.jpg "Диаграмма сущностей в нотации crow's foot")
+
+## Дополнительные ссылки
+[Drawio](https://app.diagrams.net/#G1g8KSoW2BdGbKZik3pQGhP9eirumfO8Qm)
+[Figma](https://www.figma.com/file/OCv4HSljpTMQYIwNXsxaCv/Art-Shop)
